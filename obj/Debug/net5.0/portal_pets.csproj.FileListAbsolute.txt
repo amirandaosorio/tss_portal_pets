@@ -178,3 +178,12 @@ C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Page
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RememberMe.razor.g.cs
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RememberMe.razor.g.cs
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RememberMe.razor.rz.scp.css
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Blazored.LocalStorage.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\System.IO.Pipelines.dll
