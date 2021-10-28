@@ -82,7 +82,7 @@ using portal_pets.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/rememberme")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/recordar")]
     public partial class RememberMe : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
