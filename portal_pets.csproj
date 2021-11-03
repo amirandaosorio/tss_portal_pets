@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Blazored.LocalStorage" Version="4.1.5" />
+    <PackageReference Include="Radzen.Blazor" Version="3.11.10" />
   </ItemGroup>
 
 </Project>

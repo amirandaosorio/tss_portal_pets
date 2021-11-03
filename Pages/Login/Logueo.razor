@@ -13,6 +13,17 @@
         </div>
     </div>
     <div class="row">
-
+        <div class="col-md-6 col-sm-6 col-xl-6">
+            <RadzenCard>
+                <RadzenTemplateForm Data=@("LoginWithRegisterAndReset")>
+                    <RadzenLogin Login=@(args => OnLogin(args, "Login with register and password reset"))
+                                 ResetPassword=@(args => OnResetPassword(args, "Login with register and password reset"))
+                                 Register=@(args => OnRegister("Login with register and password reset")) Style="margin-bottom: 20px;" />
+                </RadzenTemplateForm>
+            </RadzenCard>
+        </div>
+        <div class="col-md-6">
+            <EventConsole @ref=@console />
+        </div>
     </div>
 </div>

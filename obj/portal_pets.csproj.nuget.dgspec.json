@@ -49,6 +49,10 @@
             "Blazored.LocalStorage": {
               "target": "Package",
               "version": "[4.1.5, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[3.11.10, )"
             }
           },
           "imports": [
