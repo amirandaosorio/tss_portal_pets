@@ -263,3 +263,4 @@ C:\Tss\portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.dll
 C:\Tss\portal\tss_portal_pets\obj\Debug\net5.0\ref\portal_pets.dll
 C:\Tss\portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.pdb
 C:\Tss\portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
