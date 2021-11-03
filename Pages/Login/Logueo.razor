@@ -1,0 +1,29 @@
+﻿
+ 
+<div class="container">
+    <div class="row space-top-ppal">
+        <div class="col-md-3 col-sm-3 col-xl-3">
+            <picture>
+                <source src="assets/Logo.webp" />
+                <img src="assets/Logo.jpg" class="img-logo"/>
+            </picture>
+        </div>
+        <div class="col-md-9 col-sm-9 col-xl-9 center-title">
+            <span class="title"><h1>Animals Love</h1></span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6 col-sm-6 col-xl-6">
+            <RadzenCard>
+                <RadzenTemplateForm Data=@("LoginWithRegisterAndReset")>
+                    <RadzenLogin Login=@(args => OnLogin(args, "Login with register and password reset"))
+                                 ResetPassword=@(args => OnResetPassword(args, "Login with register and password reset"))
+                                 Register=@(args => OnRegister("Login with register and password reset")) Style="margin-bottom: 20px;" />
+                </RadzenTemplateForm>
+            </RadzenCard>
+        </div>
+        <div class="col-md-6">
+            <span>@_Mensaje</span>
+        </div>
+    </div>
+</div>

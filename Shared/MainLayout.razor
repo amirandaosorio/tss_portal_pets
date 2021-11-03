@@ -1,17 +1,31 @@
 ﻿@inherits LayoutComponentBase
 
 <div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
+    <RadzenDialog />
+    <RadzenNotification />
+    <RadzenContextMenu />
+    <RadzenTooltip />
 
-    <div class="main">
-        <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
-        </div>
+    <AuthorizeView>
+        <Authorized>
+            <div class="sidebar">
+                <NavMenu />
+            </div>
 
-        <div class="content px-4">
-            @Body
-        </div>
-    </div>
+            <div class="main">
+                <div class="top-row px-4">
+                    <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+                </div>
+
+                <div class="content px-4">
+                    @Body
+                </div>
+            </div>
+        </Authorized>
+        <NotAuthorized>
+            <portal_pets.Pages.Login.Logueo></portal_pets.Pages.Login.Logueo>
+            @*<portal_pets.Pages.Login.RememberMe></portal_pets.Pages.Login.RememberMe>*@
+        </NotAuthorized>
+    </AuthorizeView>
+
 </div>

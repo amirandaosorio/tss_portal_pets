@@ -1,0 +1,21 @@
+﻿body {
+    background-color:azure;
+}
+
+.img-logo{
+    height:100%;
+    width:80%;
+}
+
+.space-top-ppal {
+    margin-top: 20px;
+}
+
+.center-title {
+    text-align: center;
+}
+
+.title {
+    font-style: italic;
+    color: blueviolet;
+}
