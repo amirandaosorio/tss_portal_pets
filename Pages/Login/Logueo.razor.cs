@@ -12,22 +12,29 @@ namespace portal_pets.Pages.Login
     {
         string userName = "admin";
         string password = "admin";
-        EventConsole console;
+        //EventConsole console;
+        public String _Mensaje { get; set; }
+
+
+        protected async override Task OnInitializedAsync()
+        {
+            _Mensaje = "";
+        }
 
 
         void OnLogin(LoginArgs args, string name)
         {
-            console.Log($"{name} -> Username: {args.Username} and password: {args.Password}");
+            _Mensaje = "Se Logueo";
         }
 
         void OnRegister(string name)
         {
-            console.Log($"{name} -> Register");
+            _Mensaje = "Ingreso a Registrarse";
         }
 
         void OnResetPassword(string value, string name)
         {
-            console.Log($"{name} -> ResetPassword for user: {value}");
+            _Mensaje = "Ingreso a recordar contraseña";
         }
 
     }
