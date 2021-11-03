@@ -13,91 +13,91 @@ namespace portal_pets.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 1 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 2 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 3 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 4 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 5 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 6 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 7 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 8 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 9 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using portal_pets;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 10 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using portal_pets.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 13 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 13 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Radzen;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 14 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\_Imports.razor"
+#line 14 "D:\Team Miranda Osorio\Aplicacion\Portal\_Imports.razor"
 using Radzen.Blazor;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\Pages\FetchData.razor"
+#line 3 "D:\Team Miranda Osorio\Aplicacion\Portal\Pages\FetchData.razor"
 using portal_pets.Data;
 
 #line default
@@ -112,7 +112,7 @@ using portal_pets.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 39 "C:\Ancourd\Developing\tss_portal\tss_portal_pets\Pages\FetchData.razor"
+#line 39 "D:\Team Miranda Osorio\Aplicacion\Portal\Pages\FetchData.razor"
        
     private WeatherForecast[] forecasts;
 
