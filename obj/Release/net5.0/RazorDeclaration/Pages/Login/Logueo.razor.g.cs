@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace portal_pets.Pages
+namespace portal_pets.Pages.Login
 {
     #line hidden
     using System;
@@ -82,49 +82,13 @@ using portal_pets.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 13 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
-using Radzen;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 14 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
-using Radzen.Blazor;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 3 "C:\Tss\portal\tss_portal_pets\Pages\FetchData.razor"
-using portal_pets.Data;
-
-#line default
-#line hidden
-#nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
-    public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class Logueo : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 39 "C:\Tss\portal\tss_portal_pets\Pages\FetchData.razor"
-       
-    private WeatherForecast[] forecasts;
-
-    protected override async Task OnInitializedAsync()
-    {
-        forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
-    }
-
-#line default
-#line hidden
-#nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private WeatherForecastService ForecastService { get; set; }
     }
 }
 #pragma warning restore 1591
