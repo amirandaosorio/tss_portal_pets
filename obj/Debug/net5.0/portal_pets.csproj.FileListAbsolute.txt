@@ -126,7 +126,6 @@ C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\ref\portal_pet
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.pdb
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.dll
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.pdb
-C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.GeneratedMSBuildEditorConfig.editorconfig
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfoInputs.cache
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfo.cs
@@ -187,3 +186,5 @@ C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspN
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.JSInterop.dll
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Radzen.Blazor.dll
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
