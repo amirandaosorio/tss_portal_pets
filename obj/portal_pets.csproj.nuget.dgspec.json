@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Team Miranda Osorio\\Aplicacion\\Portal\\portal_pets.csproj": {}
+    "C:\\Tss\\portal\\tss_portal_pets\\amirandaosorio\\tss_portal_pets\\portal_pets.csproj": {}
   },
   "projects": {
-    "D:\\Team Miranda Osorio\\Aplicacion\\Portal\\portal_pets.csproj": {
+    "C:\\Tss\\portal\\tss_portal_pets\\amirandaosorio\\tss_portal_pets\\portal_pets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Team Miranda Osorio\\Aplicacion\\Portal\\portal_pets.csproj",
+        "projectUniqueName": "C:\\Tss\\portal\\tss_portal_pets\\amirandaosorio\\tss_portal_pets\\portal_pets.csproj",
         "projectName": "portal_pets",
-        "projectPath": "D:\\Team Miranda Osorio\\Aplicacion\\Portal\\portal_pets.csproj",
-        "packagesPath": "C:\\Users\\ancou\\.nuget\\packages\\",
-        "outputPath": "D:\\Team Miranda Osorio\\Aplicacion\\Portal\\obj\\",
+        "projectPath": "C:\\Tss\\portal\\tss_portal_pets\\amirandaosorio\\tss_portal_pets\\portal_pets.csproj",
+        "packagesPath": "C:\\Users\\vtr\\.nuget\\packages\\",
+        "outputPath": "C:\\Tss\\portal\\tss_portal_pets\\amirandaosorio\\tss_portal_pets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ancou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vtr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
