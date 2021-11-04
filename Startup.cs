@@ -1,3 +1,4 @@
+using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
@@ -11,7 +12,8 @@ using portal_pets.Helpers.Authentication;
 using Radzen;
 using System;
 using System.Collections.Generic;
-using System.Linq; 
+using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
 
 namespace portal_pets
@@ -35,6 +37,13 @@ namespace portal_pets
 
             #region Autenticacion Personalizada
             services.AddScoped<AuthenticationStateProvider, CustomAuthStateProvider>();
+            #endregion
+            #region HttpClient
+            services.AddScoped<HttpClient>();
+            #endregion
+            #region LocalStorage
+            services.AddBlazoredLocalStorage();
+            services.AddBlazoredLocalStorage(Config => Config.JsonSerializerOptions.WriteIndented = true);
             #endregion
             #region Radzen
             services.AddScoped<DialogService>();

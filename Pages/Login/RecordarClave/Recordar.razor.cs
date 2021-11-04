@@ -4,9 +4,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace portal_pets.Pages.Login
+namespace portal_pets.Pages.Login.RecordarClave
 {
-    public partial class RememberMe : ComponentBase
+    public partial class Recordar : ComponentBase
     {
+
+
+
     }
 }

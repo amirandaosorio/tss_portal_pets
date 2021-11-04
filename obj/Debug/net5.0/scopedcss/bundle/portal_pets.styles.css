@@ -1,6 +1,8 @@
 /* _content/portal_pets/Pages/Login/Logueo.razor.rz.scp.css */
 body[b-v5v57u6da7] {
-    background-color:azure;
+    /*background-color: azure;*/
+    background: rgb(0,19,36);
+    background: linear-gradient(90deg, rgba(0,19,36,0.05085784313725494) 12%, rgba(0,138,255,1) 100%);
 }
 
 .img-logo[b-v5v57u6da7]{
@@ -10,6 +12,7 @@ body[b-v5v57u6da7] {
 
 .space-top-ppal[b-v5v57u6da7] {
     margin-top: 20px;
+    margin-bottom: 5%;
 }
 
 .center-title[b-v5v57u6da7] {
@@ -19,9 +22,18 @@ body[b-v5v57u6da7] {
 .title[b-v5v57u6da7] {
     font-style: italic;
     color: blueviolet;
+    font-family:'Century Gothic';
+    font-size:larger;
 }
-/* _content/portal_pets/Pages/Login/RememberMe.razor.rz.scp.css */
-body[b-wt77qutjrn] {
+
+.space-containet-login[b-v5v57u6da7] {
+    padding-top: 5%;
+}
+/* _content/portal_pets/Pages/Login/RecordarClave/Recordar.razor.rz.scp.css */
+body[b-tsollij3iz] {
+}
+/* _content/portal_pets/Pages/Login/Registrarse/Registrar.razor.rz.scp.css */
+body[b-0qy844stoh] {
 }
 /* _content/portal_pets/Shared/MainLayout.razor.rz.scp.css */
 .page[b-bkv08k92f5] {

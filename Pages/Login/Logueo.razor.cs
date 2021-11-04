@@ -10,6 +10,9 @@ namespace portal_pets.Pages.Login
 {
     public partial class Logueo : ComponentBase
     {
+        [Inject] public NavigationManager _nav {get;set;}
+
+
         string userName = "admin";
         string password = "admin";
         //EventConsole console;
@@ -29,12 +32,14 @@ namespace portal_pets.Pages.Login
 
         void OnRegister(string name)
         {
-            _Mensaje = "Ingreso a Registrarse";
+            //_Mensaje = "Ingreso a Registrarse";
+            _nav.NavigateTo("registrar", true);
         }
 
         void OnResetPassword(string value, string name)
         {
-            _Mensaje = "Ingreso a recordar contraseña";
+            //_Mensaje = "Ingreso a recordar contraseña";
+            _nav.NavigateTo("recordar", true);
         }
 
     }
