@@ -13,71 +13,85 @@ namespace portal_pets.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 1 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 2 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 3 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 4 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 5 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 6 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 7 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 8 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 9 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using portal_pets;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\Tss\portal\tss_portal_pets\_Imports.razor"
+#line 10 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
 using portal_pets.Shared;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
+using Radzen;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\_Imports.razor"
+using Radzen.Blazor;
 
 #line default
 #line hidden
@@ -91,7 +105,7 @@ using portal_pets.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "C:\Tss\portal\tss_portal_pets\Pages\Counter.razor"
+#line 9 "C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\Pages\Counter.razor"
        
     private int currentCount = 0;
 
