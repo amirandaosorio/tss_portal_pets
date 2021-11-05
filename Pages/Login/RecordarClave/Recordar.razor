@@ -1,4 +1,30 @@
 ﻿@page "/recordar"
 
-<h3>Recordar Contraseña</h3>
-
+<div class="container body">
+    <div class="row center-div-row">
+        <div class="col-md-12 col-sm-12 col-xl-12 center-div-col">
+            <span>
+                <h1> Recordar Contraseña</h1>
+            </span>
+        </div>
+    </div>
+    <div class="row center-div-row">
+        <div class="col-md-12 col-sm-12 col-xl-12 center-div-col">
+            <RadzenTemplateForm TItem="Model" Data=@model Submit=@OnSubmit InvalidSubmit=@OnInvalidSubmit>
+                <RadzenFieldset Text="Enter email">
+                    <div class="row" style="margin-bottom: 48px">
+                        <div class="col-md-4 align-right">
+                            <RadzenLabel Text="Email" />
+                        </div>
+                        <div class="col">
+                            <RadzenTextBox style="display: block" Name="Email" @bind-Value=@model.Email />
+                            <RadzenRequiredValidator Component="Email" Text="Email is required" Popup=@popup Style="position: absolute" />
+                            <RadzenEmailValidator Component="Email" Text="Provide a valid email address" Popup=@popup Style="position: absolute" />
+                        </div>
+                    </div>
+                    <RadzenButton ButtonType="ButtonType.Submit" Text="Continuar"></RadzenButton>
+                </RadzenFieldset>
+            </RadzenTemplateForm>
+        </div>
+    </div>
+</div>

@@ -174,9 +174,6 @@ C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.cs
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Logueo.razor.g.cs
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Logueo.razor.g.cs
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Logueo.razor.rz.scp.css
-C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RememberMe.razor.g.cs
-C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RememberMe.razor.g.cs
-C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RememberMe.razor.rz.scp.css
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Blazored.LocalStorage.dll
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
@@ -497,3 +494,9 @@ C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.dll
 C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\ref\portal_pets.dll
 C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.pdb
 C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RecordarClave\Recordar.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Registrarse\Registrar.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RecordarClave\Recordar.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Registrarse\Registrar.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RecordarClave\Recordar.razor.rz.scp.css
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Registrarse\Registrar.razor.rz.scp.css
