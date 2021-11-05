@@ -1,24 +1,31 @@
 ﻿
   
 <div class="container">
-    <div class="row space-top-ppal">
-        <div class="col-md-3 col-sm-3 col-xl-3">
-            <picture>
-                <source src="assets/Logo.webp" />
-                <img src="assets/Logo.jpg" class="img-logo"/>
-            </picture>
-        </div>
-        <div class="col-md-9 col-sm-9 col-xl-9 center-title">
+    <div class="row space-top-ppal">        
+        <div class="col-md-12 col-sm-12 col-xl-12 center-title">
             <span class="title"><h1>Animals Love</h1></span>
         </div>
     </div>
     <div class="row">
         <div class="col-md-6 col-sm-6 col-xl-6">
+            <picture>
+                <source src="assets/Logo.webp" />
+                <img src="assets/Logo.jpg" class="img-logo" />
+            </picture>
+        </div>
+        <div class="col-md-6 col-sm-6 col-xl-6 space-containet-login">
             <RadzenCard>
-                <RadzenTemplateForm Data=@("LoginWithRegisterAndReset")>
-                    <RadzenLogin Login=@(args => OnLogin(args, "Login with register and password reset"))
+                <RadzenTemplateForm Data=@("Login with register and password reset")>
+                    <RadzenLogin Login=@(args => OnLogin(args, "Login with register and password reset") )
                                  ResetPassword=@(args => OnResetPassword(args, "Login with register and password reset"))
-                                 Register=@(args => OnRegister("Login with register and password reset")) Style="margin-bottom: 20px;" />
+                                 Register=@(args => OnRegister("Login with register and password reset")) 
+                                 Style="margin-bottom: 20px;" 
+                                 LoginText="Ingresar"
+                                 UserText="Usuario" UserRequired="El usuario es obligatario"
+                                 PasswordText="Clave" PasswordRequired="La clave es obligtoria"
+                                 RegisterText="Registrarse" RegisterMessageText="Si no tiene Usuario"
+                                 ResetPasswordText="¿Olvidaste tu contraseña?"
+                                 />
                 </RadzenTemplateForm>
             </RadzenCard>
         </div>

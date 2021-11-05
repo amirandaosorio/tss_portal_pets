@@ -4,9 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace portal_pets.Pages.Login
+namespace portal_pets.Pages.Login.Registrarse
 {
-    public partial class RememberMe : ComponentBase
+    public partial class Registrar : ComponentBase
     {
+
+
     }
 }

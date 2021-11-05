@@ -1,5 +1,6 @@
 body[b-v5v57u6da7] {
-    background-color:azure;
+    background: rgb(242,242,242);
+    background: linear-gradient(90deg, rgba(242,242,242,1) 0%, rgba(109,160,233,1) 35%, rgba(17,58,117,1) 100%);
 }
 
 .img-logo[b-v5v57u6da7]{
@@ -9,6 +10,7 @@ body[b-v5v57u6da7] {
 
 .space-top-ppal[b-v5v57u6da7] {
     margin-top: 20px;
+    margin-bottom: 5%;
 }
 
 .center-title[b-v5v57u6da7] {
@@ -17,5 +19,11 @@ body[b-v5v57u6da7] {
 
 .title[b-v5v57u6da7] {
     font-style: italic;
-    color: blueviolet;
+    color: white;
+    font-family:'Century Gothic';
+    font-size:larger;
+}
+
+.space-containet-login[b-v5v57u6da7] {
+    padding-top: 5%;
 }
