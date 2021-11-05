@@ -48,3 +48,19 @@ a, .btn-link {
         right: 0.75rem;
         top: 0.5rem;
     }
+
+
+body {
+    background: rgb(242,242,242);
+    background: linear-gradient(90deg, rgba(242,242,242,1) 0%, rgba(109,160,233,1) 35%, rgba(17,58,117,1) 100%);
+}
+
+.center-div-row{
+    width:100%;
+    text-align:center;
+}
+
+.center-div-col {
+    padding-left: 25% !important;
+    padding-right: 25% !important;
+}
