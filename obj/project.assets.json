@@ -621,25 +621,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amosorio\\.nuget\\packages\\": {},
+    "C:\\Users\\ancou\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ancourd\\Developing\\tss_portal\\tss_portal_pets\\portal_pets.csproj",
+      "projectUniqueName": "D:\\Team Miranda Osorio\\Aplicacion\\Portal\\portal_pets.csproj",
       "projectName": "portal_pets",
-      "projectPath": "C:\\Ancourd\\Developing\\tss_portal\\tss_portal_pets\\portal_pets.csproj",
-      "packagesPath": "C:\\Users\\amosorio\\.nuget\\packages\\",
-      "outputPath": "C:\\Ancourd\\Developing\\tss_portal\\tss_portal_pets\\obj\\",
+      "projectPath": "D:\\Team Miranda Osorio\\Aplicacion\\Portal\\portal_pets.csproj",
+      "packagesPath": "C:\\Users\\ancou\\.nuget\\packages\\",
+      "outputPath": "D:\\Team Miranda Osorio\\Aplicacion\\Portal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\amosorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ancou\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

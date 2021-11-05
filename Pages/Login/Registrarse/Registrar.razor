@@ -2,3 +2,58 @@
 
 <h3>Registrar</h3>
 
+<RadzenFieldset Text="Contact Info">
+    <div class="row">
+        <div class="col-md-4 align-items-center d-flex">
+            <RadzenLabel Text="Nombre" />
+        </div>
+        <div class="col-md-8">
+            <RadzenTextBox style="width: 100%;" Name="Nombre" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 align-items-center d-flex">
+            <RadzenLabel Text="Pais" />
+        </div>
+        <div class="col-md-8">
+            <RadzenDropDown @bind-Value="order.Pais" Placeholder="Colombia" Data="@countries" style="width: 100%;" TextProperty="Nombre" ValueProperty="Id" Name="Pais">
+            </RadzenDropDown>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 align-items-center d-flex">
+            <RadzenLabel Text="Ciudad" />
+        </div>
+        <div class="col-md-8">
+            <RadzenTextBox style="width: 100%;" Name="Ciudad" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 align-items-center d-flex">
+            <RadzenLabel Text="Dirección">
+            </RadzenLabel>
+        </div>
+        <div class="col-md-8">
+            <RadzenTextBox style="width: 100%;" Name="Direccion1" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 align-items-center d-flex">
+            <RadzenLabel Text="Region" />
+        </div>
+        <div class="col-md-8">
+            <RadzenTextBox style="width: 100%;" Name="Region" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 align-items-center d-flex">
+            <RadzenLabel Text="Número celular" />
+        </div>
+        <div class="col-md-8">
+            <RadzenTextBox style="width: 100%;" Name="Numero" />
+        </div>
+    </div>
+  
+</RadzenFieldset>
+
+
