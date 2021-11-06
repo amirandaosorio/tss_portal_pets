@@ -1,59 +1,92 @@
 ﻿@page "/registrar"
 
-<h3>Registrar</h3>
 
-<RadzenFieldset Text="Contact Info">
-    <div class="row">
-        <div class="col-md-4 align-items-center d-flex">
-            <RadzenLabel Text="Nombre" />
-        </div>
-        <div class="col-md-8">
-            <RadzenTextBox style="width: 100%;" Name="Nombre" />
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4 align-items-center d-flex">
-            <RadzenLabel Text="Pais" />
-        </div>
-        <div class="col-md-8">
-            <RadzenDropDown @bind-Value="order.Country" Placeholder="Colombia" Data="@countries" style="width: 100%;" TextProperty="Nombre" ValueProperty="Id" Name="Pais">
-            </RadzenDropDown>
+<div class="container body">
+    <div class="row center-div-row">
+        <div class="col-md-12 col-sm-12 col-xl-12 center-div-col">
+            <span>
+                <h1> Registrarse</h1>
+            </span>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-4 align-items-center d-flex">
-            <RadzenLabel Text="Ciudad" />
-        </div>
-        <div class="col-md-8">
-            <RadzenTextBox style="width: 100%;" Name="Ciudad" />
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4 align-items-center d-flex">
-            <RadzenLabel Text="Dirección">
-            </RadzenLabel>
-        </div>
-        <div class="col-md-8">
-            <RadzenTextBox style="width: 100%;" Name="Direccion1" />
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4 align-items-center d-flex">
-            <RadzenLabel Text="Region" />
-        </div>
-        <div class="col-md-8">
-            <RadzenTextBox style="width: 100%;" Name="Region" />
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4 align-items-center d-flex">
-            <RadzenLabel Text="Número celular" />
-        </div>
-        <div class="col-md-8">
-            <RadzenTextBox style="width: 100%;" Name="Numero" />
-        </div>
-    </div>
-  
-</RadzenFieldset>
+    <div class="row center-div-row">
+        <div class="col-md-12 col-sm-12 col-xl-12 center-div-col">
+            <RadzenFieldset>
+                <div class="row">                        
+                    <div class="col-md-6">
+                        <RadzenLabel Text="Nombre" />
+                        <RadzenTextBox style="width: 100%;" Name="Nombre" @bind-Value="@_registro.nombre" />
+                    </div>
+                    <div class="col-md-6">
+                        <RadzenLabel Text="Apellido" />
+                        <RadzenTextBox style="width: 100%;" Name="Nombre" @bind-Value="@_registro.apellido" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <RadzenLabel Text="Pais" />
+                        <RadzenDropDownDataGrid @bind-Value="_idpais" Placeholder="Pais"
+                                                Data="@(_lstUbPais.Select(s=> new { codigo=s.codigo, nombre=s.nombre }).OrderBy(o=>o.codigo).AsQueryable())" Style="width: 100%;"
+                                                TextProperty="nombre" ValueProperty="codigo"
+                                                TValue="string" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+                                                AllowFiltering="true" AllowClear="true">
+                        </RadzenDropDownDataGrid>
+                    </div>
+                    <div class="col-md-4">
+                        <RadzenLabel Text="Provincia" />
+                        <RadzenDropDownDataGrid @bind-Value="_idprovincia" Placeholder="Departamento" 
+                                        Data="@(_lstUbProv.Where(w=>w.padre==_idpais).Select(s=> new { codigo=s.codigo, nombre=s.nombre }).OrderBy(o=>o.codigo).AsQueryable())" Style="width: 100%;" 
+                                        TextProperty="nombre" ValueProperty="codigo" 
+                                        TValue="string" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+                                        AllowFiltering="true" AllowClear="true">
+                        </RadzenDropDownDataGrid>
+                    </div>
+                    <div class="col-md-4">
+                        <RadzenLabel Text="Ciudad" />
+                        <RadzenDropDownDataGrid @bind-Value="_registro.ubicacionid" Placeholder="Ciudad"
+                                                Data="@(_lstUbCiud.Where(w=>w.padre==_idprovincia).Select(s=> new { codigo=s.codigo, nombre=s.nombre }).OrderBy(o=>o.codigo).AsQueryable())" Style="width: 100%;"
+                                                TextProperty="nombre" ValueProperty="codigo"
+                                                TValue="string" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+                                                AllowFiltering="true" AllowClear="true">
+                        </RadzenDropDownDataGrid>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 align-items-center d-flex">
+                        <RadzenLabel Text="Dirección">
+                        </RadzenLabel>
+                    </div>
+                    <div class="col-md-9">
+                        <RadzenTextBox style="width: 100%;" Name="Direccion1" @bind-Value="@_registro.direccion"/>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 align-items-center d-flex">
+                        <RadzenLabel Text="Barrio" />
+                    </div>
+                    <div class="col-md-9">
+                        <RadzenTextBox style="width: 100%;" Name="Region" @bind-Value="@_registro.barrio"/>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 align-items-center d-flex">
+                        <RadzenLabel Text="Número celular" />
+                    </div>
+                    <div class="col-md-9">
+                        <RadzenTextBox style="width: 100%;" Name="Numero" />
+                    </div>
+                </div>
 
+            </RadzenFieldset>
+
+            <div class="row justify-content-center">
+                <div class="col-md-12 d-flex align-items-end justify-content-center" style="margin-top: 16px;">
+                    <RadzenButton ButtonType="ButtonType.Submit" Icon="save" Text="Save"  Click="@Grabar"/>
+                    <RadzenButton ButtonStyle="ButtonStyle.Light" Icon="cancel" style="display: inline-block; margin-left: 10px;" Text="Cancel" Click="@Cancelar" />
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
 
