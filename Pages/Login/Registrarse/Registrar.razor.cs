@@ -27,10 +27,13 @@ namespace portal_pets.Pages.Login.Registrarse
         {
             _registro = new cUsuario();
             cUbicacion infUbicacion = new cUbicacion();
+            cTipoIdent infoIdent = new cTipoIdent();
+
             _lstUbPais = infUbicacion.CargueInicial().Where(w=>w.tipo==(int)eTipoUbicacion.PAIS).ToList();
             _lstUbProv = infUbicacion.CargueInicial().Where(w => w.tipo == (int)eTipoUbicacion.PROVINCIA).ToList();
             _lstUbCiud = infUbicacion.CargueInicial().Where(w => w.tipo == (int)eTipoUbicacion.CIUDAD).ToList();
-            _lstTipoident = infUbicacion.CargueInicial().Where(w => w.tipo == (int)eTipoUbicacion.CIUDAD).ToList();
+
+            _lstTipoident = infoIdent.CargueInicial();
         }
 
 
