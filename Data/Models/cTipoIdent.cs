@@ -8,7 +8,8 @@ namespace portal_pets.Data.Models
     public class cTipoIdent
     {
         public String codigo { get; set; }
-        public String nombre { get; set; }        
+        public String nombre { get; set; }
+        //public Int32 tipo { get; set; } // 1= CC,  2= Pas, 3= NIT, 4= Cex, 5= Ti 
 
         public cTipoIdent()
         {

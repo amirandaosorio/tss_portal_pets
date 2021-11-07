@@ -11,6 +11,7 @@ namespace portal_pets.Data.Models
         public String nombre { get; set; }
         public String apellido { get; set; }
         public String tipoidentid { get; set; }
+        
         public String numident { get; set; }
         public String ubicacionid { get; set; }
         public String direccion { get; set; }
