@@ -12,7 +12,7 @@
     <div class="row center-div-row">
         <div class="col-md-12 col-sm-12 col-xl-12 center-div-col">
             <RadzenFieldset>
-                <div class="row">                        
+                <div class="row">
                     <div class="col-md-6">
                         <RadzenLabel Text="Nombre" />
                         <RadzenTextBox style="width: 100%;" Name="Nombre" @bind-Value="@_registro.nombre" />
@@ -34,11 +34,11 @@
                     </div>
                     <div class="col-md-4">
                         <RadzenLabel Text="Provincia" />
-                        <RadzenDropDownDataGrid @bind-Value="_idprovincia" Placeholder="Departamento" 
-                                        Data="@(_lstUbProv.Where(w=>w.padre==_idpais).Select(s=> new { codigo=s.codigo, nombre=s.nombre }).OrderBy(o=>o.codigo).AsQueryable())" Style="width: 100%;" 
-                                        TextProperty="nombre" ValueProperty="codigo" 
-                                        TValue="string" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
-                                        AllowFiltering="true" AllowClear="true">
+                        <RadzenDropDownDataGrid @bind-Value="_idprovincia" Placeholder="Departamento"
+                                                Data="@(_lstUbProv.Where(w=>w.padre==_idpais).Select(s=> new { codigo=s.codigo, nombre=s.nombre }).OrderBy(o=>o.codigo).AsQueryable())" Style="width: 100%;"
+                                                TextProperty="nombre" ValueProperty="codigo"
+                                                TValue="string" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+                                                AllowFiltering="true" AllowClear="true">
                         </RadzenDropDownDataGrid>
                     </div>
                     <div class="col-md-4">
@@ -57,7 +57,7 @@
                         </RadzenLabel>
                     </div>
                     <div class="col-md-9">
-                        <RadzenTextBox style="width: 100%;" Name="Direccion1" @bind-Value="@_registro.direccion"/>
+                        <RadzenTextBox style="width: 100%;" Name="Direccion1" @bind-Value="@_registro.direccion" />
                     </div>
                 </div>
                 <div class="row">
@@ -65,7 +65,7 @@
                         <RadzenLabel Text="Barrio" />
                     </div>
                     <div class="col-md-9">
-                        <RadzenTextBox style="width: 100%;" Name="Region" @bind-Value="@_registro.barrio"/>
+                        <RadzenTextBox style="width: 100%;" Name="Region" @bind-Value="@_registro.barrio" />
                     </div>
                 </div>
                 <div class="row">
@@ -74,6 +74,26 @@
                     </div>
                     <div class="col-md-9">
                         <RadzenTextBox style="width: 100%;" Name="Numero" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 align-items-center d-flex">
+                        <RadzenLabel Text="Tipo de Identificación" />
+                    </div>
+                    <div class="col-md-9">
+                        <RadzenTextBox style="width: 100%;" Name="tipoidentid"/>
+                        <RadzenDropDownDataGrid  @bind-Value="_registro.tipoidentid" 
+                                                Data="@(_lstTipoident.Select(s=> new { codigo=s.codigo, nombre=s.nombre }).OrderBy(o=>o.codigo).AsQueryable())" Style="width: 100%;"
+                                                TextProperty="nombre" ValueProperty="codigo"
+                                                TValue="string" FilterCaseSensitivity="FilterCaseSensitivity.CaseInsensitive"
+                                                AllowFiltering="true" AllowClear="true">
+                        </RadzenDropDownDataGrid>
+
+                    </div>
+                    <div class="col-md-3 align-items-center d-flex">
+                        <RadzenLabel Text="Número de Identificación" />
+                        <RadzenTextBox style="width: 100%;" Name="tipoidentid" @bind-Value="_registro.numident" /> 
+
                     </div>
                 </div>
 

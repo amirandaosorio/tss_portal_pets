@@ -16,9 +16,11 @@ namespace portal_pets.Pages.Login.Registrarse
         public List<cUbicacion> _lstUbPais { get; set; } = new List<cUbicacion>();
         public List<cUbicacion> _lstUbProv { get; set; } = new List<cUbicacion>();
         public List<cUbicacion> _lstUbCiud { get; set; } = new List<cUbicacion>();
+        public List<cTipoIdent> _lstTipoident { get; set; } = new List<cTipoIdent>();
 
         public String _idpais { get; set; }
-        public String _idprovincia { get; set; }        
+        public String _idprovincia { get; set; }
+        public String _idTipoident { get; set; }
 
 
         protected async override Task OnInitializedAsync()
@@ -28,6 +30,7 @@ namespace portal_pets.Pages.Login.Registrarse
             _lstUbPais = infUbicacion.CargueInicial().Where(w=>w.tipo==(int)eTipoUbicacion.PAIS).ToList();
             _lstUbProv = infUbicacion.CargueInicial().Where(w => w.tipo == (int)eTipoUbicacion.PROVINCIA).ToList();
             _lstUbCiud = infUbicacion.CargueInicial().Where(w => w.tipo == (int)eTipoUbicacion.CIUDAD).ToList();
+            _lstTipoident = infUbicacion.CargueInicial().Where(w => w.tipo == (int)eTipoUbicacion.CIUDAD).ToList();
         }
 
 
