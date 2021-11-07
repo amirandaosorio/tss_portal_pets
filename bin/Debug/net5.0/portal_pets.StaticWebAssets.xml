@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\ancou\.nuget\packages\radzen.blazor\3.11.10\build\..\staticwebassets\" />
+  <ContentRoot BasePath="/" Path="C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\amosorio\.nuget\packages\radzen.blazor\3.11.10\build\..\staticwebassets\" />
 </StaticWebAssets>

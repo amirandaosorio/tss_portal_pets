@@ -64,3 +64,17 @@ body {
     padding-left: 20% !important;
     padding-right: 20% !important;
 }
+
+.header {
+    background: black !important;
+    height: 45 px;
+}
+
+.color-text-header {
+    color: lawngreen;
+}
+
+.align-text-header {
+    text-align: center;
+    padding-top: 1%;
+}

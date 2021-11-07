@@ -578,3 +578,6 @@ D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\ref\po
 D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.pdb
 D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
 D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\CompHeader.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Shared\CompHeader.razor.g.cs
