@@ -174,9 +174,6 @@ C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.cs
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Logueo.razor.g.cs
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Logueo.razor.g.cs
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Logueo.razor.rz.scp.css
-C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RememberMe.razor.g.cs
-C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RememberMe.razor.g.cs
-C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RememberMe.razor.rz.scp.css
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Blazored.LocalStorage.dll
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
 C:\Ancourd\Developing\tss_portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
@@ -263,78 +260,324 @@ C:\Tss\portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.dll
 C:\Tss\portal\tss_portal_pets\obj\Debug\net5.0\ref\portal_pets.dll
 C:\Tss\portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.pdb
 C:\Tss\portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\appsettings.json
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.StaticWebAssets.xml
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.exe
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.deps.json
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.runtimeconfig.json
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.runtimeconfig.dev.json
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\ref\portal_pets.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.pdb
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.pdb
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Blazored.LocalStorage.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.JSInterop.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Radzen.Blazor.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\System.IO.Pipelines.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfoInputs.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfo.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.CoreCompileInputs.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorComponent.input.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Logueo.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RememberMe.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorComponent.output.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\portal_pets.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.TagHelpers.input.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.TagHelpers.output.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorCoreGenerate.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\App.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Logueo.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RememberMe.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.Manifest.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.xml
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Logueo.razor.rz.scp.css
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RememberMe.razor.rz.scp.css
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\bundle\portal_pets.styles.css
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\projectbundle\portal_pets.bundle.scp.css
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cache
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cs
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.Views.pdb
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.CopyComplete
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\ref\portal_pets.dll
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.pdb
-C:\Users\vtr\Source\Repos\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\appsettings.Development.json
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\appsettings.json
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.StaticWebAssets.xml
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.exe
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.deps.json
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.runtimeconfig.json
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.runtimeconfig.dev.json
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\ref\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.pdb
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.Views.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\portal_pets.Views.pdb
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Blazored.LocalStorage.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\Radzen.Blazor.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.AssemblyInfoInputs.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.AssemblyInfo.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.csproj.CoreCompileInputs.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.MvcApplicationPartsAssemblyInfo.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.RazorComponent.input.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Logueo.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.RazorComponent.output.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.TagHelpers.input.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.TagHelpers.output.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.RazorCoreGenerate.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Pages\Login\Logueo.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.Manifest.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.xml
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\scopedcss\Pages\Login\Logueo.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\scopedcss\bundle\portal_pets.styles.css
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\scopedcss\projectbundle\portal_pets.bundle.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.Views.pdb
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.csproj.CopyComplete
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\ref\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.pdb
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RecordarClave\Recordar.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Registrarse\Registrar.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Pages\Login\RecordarClave\Recordar.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\Razor\Pages\Login\Registrarse\Registrar.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\scopedcss\Pages\Login\RecordarClave\Recordar.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\obj\Debug\net5.0\scopedcss\Pages\Login\Registrarse\Registrar.razor.rz.scp.css
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\appsettings.Development.json
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\appsettings.json
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.StaticWebAssets.xml
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.exe
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.deps.json
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.runtimeconfig.json
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.runtimeconfig.dev.json
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\ref\portal_pets.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.pdb
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.pdb
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Blazored.LocalStorage.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Radzen.Blazor.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfoInputs.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfo.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.CoreCompileInputs.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorComponent.input.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Logueo.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RecordarClave\Recordar.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Registrarse\Registrar.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorComponent.output.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\portal_pets.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.TagHelpers.input.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.TagHelpers.output.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorCoreGenerate.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Logueo.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RecordarClave\Recordar.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Registrarse\Registrar.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.Manifest.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.xml
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Logueo.razor.rz.scp.css
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RecordarClave\Recordar.razor.rz.scp.css
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Registrarse\Registrar.razor.rz.scp.css
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\bundle\portal_pets.styles.css
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\projectbundle\portal_pets.bundle.scp.css
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cache
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cs
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.Views.pdb
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.CopyComplete
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\ref\portal_pets.dll
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.pdb
+C:\Tss\portal\tss_portal_pets\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\appsettings.Development.json
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\appsettings.json
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.StaticWebAssets.xml
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.exe
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.deps.json
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.runtimeconfig.json
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.runtimeconfig.dev.json
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\ref\portal_pets.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.pdb
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.pdb
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Blazored.LocalStorage.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\Radzen.Blazor.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfoInputs.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfo.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.CoreCompileInputs.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.MvcApplicationPartsAssemblyInfo.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorComponent.input.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Logueo.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RecordarClave\Recordar.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Registrarse\Registrar.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorComponent.output.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\portal_pets.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.TagHelpers.input.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.TagHelpers.output.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorCoreGenerate.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Logueo.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RecordarClave\Recordar.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Registrarse\Registrar.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.Manifest.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.xml
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Logueo.razor.rz.scp.css
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RecordarClave\Recordar.razor.rz.scp.css
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Registrarse\Registrar.razor.rz.scp.css
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\bundle\portal_pets.styles.css
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\scopedcss\projectbundle\portal_pets.bundle.scp.css
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cache
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cs
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.Views.pdb
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.CopyComplete
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\ref\portal_pets.dll
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.pdb
+C:\tss\portal\amirandaosorio\tss_portal_pets\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RecordarClave\Recordar.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Registrarse\Registrar.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RecordarClave\Recordar.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Registrarse\Registrar.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RecordarClave\Recordar.razor.rz.scp.css
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Registrarse\Registrar.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\appsettings.Development.json
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\appsettings.json
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.StaticWebAssets.xml
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.exe
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.deps.json
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.runtimeconfig.json
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.runtimeconfig.dev.json
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\ref\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.pdb
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\portal_pets.Views.pdb
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Blazored.LocalStorage.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\Radzen.Blazor.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfoInputs.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.AssemblyInfo.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.CoreCompileInputs.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.MvcApplicationPartsAssemblyInfo.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorComponent.input.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Logueo.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\RecordarClave\Recordar.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Login\Registrarse\Registrar.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorComponent.output.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.TagHelpers.input.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.TagHelpers.output.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorCoreGenerate.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Logueo.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\RecordarClave\Recordar.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Login\Registrarse\Registrar.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorAssemblyInfo.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.Manifest.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\staticwebassets\portal_pets.StaticWebAssets.xml
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Logueo.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\RecordarClave\Recordar.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Pages\Login\Registrarse\Registrar.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\bundle\portal_pets.styles.css
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\scopedcss\projectbundle\portal_pets.bundle.scp.css
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.RazorTargetAssemblyInfo.cs
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.Views.pdb
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.CopyComplete
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\ref\portal_pets.dll
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.pdb
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.genruntimeconfig.cache
+D:\Team Miranda Osorio\Aplicacion\Portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\portal_pets.csproj.AssemblyReference.cache
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\RazorDeclaration\Pages\Shared\CompHeader.razor.g.cs
+C:\Ancourd\Developing\tss_portal\tss_portal_pets\obj\Debug\net5.0\Razor\Pages\Shared\CompHeader.razor.g.cs

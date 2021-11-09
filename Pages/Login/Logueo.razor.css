@@ -1,14 +1,14 @@
-﻿body {
-    background-color:azure;
-}
+﻿
 
 .img-logo{
     height:100%;
     width:80%;
+    margin: 50px, 50px;
 }
 
 .space-top-ppal {
     margin-top: 20px;
+    margin-bottom: 5%;
 }
 
 .center-title {
@@ -17,5 +17,11 @@
 
 .title {
     font-style: italic;
-    color: blueviolet;
+    color: white;
+    font-family:'Century Gothic';
+    font-size:larger;
+}
+
+.space-containet-login {
+    padding-top: 5%;
 }

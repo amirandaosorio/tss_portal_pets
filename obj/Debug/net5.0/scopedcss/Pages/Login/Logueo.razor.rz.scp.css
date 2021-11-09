@@ -1,14 +1,14 @@
-body[b-v5v57u6da7] {
-    background-color:azure;
-}
+
 
 .img-logo[b-v5v57u6da7]{
     height:100%;
     width:80%;
+    margin: 50px, 50px;
 }
 
 .space-top-ppal[b-v5v57u6da7] {
     margin-top: 20px;
+    margin-bottom: 5%;
 }
 
 .center-title[b-v5v57u6da7] {
@@ -17,5 +17,11 @@ body[b-v5v57u6da7] {
 
 .title[b-v5v57u6da7] {
     font-style: italic;
-    color: blueviolet;
+    color: white;
+    font-family:'Century Gothic';
+    font-size:larger;
+}
+
+.space-containet-login[b-v5v57u6da7] {
+    padding-top: 5%;
 }
